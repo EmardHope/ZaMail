@@ -4,8 +4,8 @@ import { Providers } from "./providers";
 
 
 export const metadata: Metadata = {
-  title: "Zama FHEVM SDK Quickstart",
-  description: "Zama FHEVM SDK Quickstart app",
+  title: "ZaMail",
+  description: "ZaMail -- On-chain encrypted email system based on ZAMA.",
 };
 
 export default async function RootLayout({

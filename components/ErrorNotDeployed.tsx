@@ -14,7 +14,7 @@ export function errorNotDeployed(chainId: number | undefined) {
             (Chain ID: <span className={codeClass}>{chainId}</span> {chainId === 11155111 ? "- Sepolia Testnet" : ""}).
           </p>
           <p>
-            This could be because the contract has not been deployed to this network, or the application is missing the contract's address.
+            This could be because the contract has not been deployed to this network, or the application is missing the contract&apos;s address.
           </p>
           <div>
             <p className="mb-2 font-semibold text-gray-300">To fix this, you can:</p>

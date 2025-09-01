@@ -93,7 +93,7 @@ export const FHECounterDemo = () => {
               Za<span className="text-cyan-400">Mail</span>
             </h1>
             <p className="mt-2 text-sm text-gray-400">
-              基于 ZAMA 的链上加密邮件系统。让您享受去中心化的自由稳定与全同态加密的安全隐私
+              On-chain Encrypted Email System based on ZAMA.
             </p>
           </div>
           <div className="text-right">
